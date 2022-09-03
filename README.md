@@ -5,5 +5,5 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)https://github.com/Fr0ztyy43
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fr0ztyy43)https://github.com/Fr0ztyy43
 -->
